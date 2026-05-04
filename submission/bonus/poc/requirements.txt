@@ -1,0 +1,4 @@
+deltalake>=0.17.0
+duckdb>=0.10.0
+pandas>=2.0.0
+faker>=24.0.0
